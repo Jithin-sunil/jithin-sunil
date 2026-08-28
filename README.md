@@ -53,30 +53,15 @@ I love turning ideas into working products, and I code for fun as much as for wo
 
 ---
 
-### 📌 Pinned / Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**Esports**](https://github.com/Jithin-sunil/Esports) | Esports-themed web project | HTML |
-| [**Shoppify-Django-Query**](https://github.com/Jithin-sunil/Shoppify-Django-Query) | Shopify-style querying built with Django | Python |
-| [**Empower-Tribe**](https://github.com/Jithin-sunil/Empower-Tribe) | Community/social-impact focused app | Python |
-| [**Tic-Tac-Toe-Kivy**](https://github.com/Jithin-sunil/Tic-Tac-Toe-Kivy) | Classic game built with Kivy | Python |
-| [**KivyMD**](https://github.com/Jithin-sunil/KivyMD) | Material Design mobile UI experiments | Python |
-| [**DartTutorial-master**](https://github.com/Jithin-sunil/DartTutorial-master) | Dart language fundamentals & practice | Dart |
-
-> ✏️ *Swap these for your actual [pinned repos](https://github.com/Jithin-sunil?tab=repositories) once you set them on GitHub — pinning is done from your profile page.*
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jithin-sunil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithin-sunil&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jithin-sunil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jithin-sunil&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jithin-sunil&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Jithin-sunil&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
