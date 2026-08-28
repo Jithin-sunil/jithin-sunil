@@ -2,19 +2,17 @@
 
 ### 🚀 Software Developer | Full-Stack & Mobile App Developer
 
-I'm a passionate software developer who enjoys building **clean, scalable, and user-focused applications**. I love turning ideas into real-world digital products—from backend architecture and APIs to polished web and mobile interfaces.
-
-Currently, I'm focused on building modern applications using **Django, Flutter, Firebase, and other web technologies**.
+I'm a passionate **Software Developer** who enjoys building **clean, scalable, and user-focused applications**. From designing backend systems and APIs to creating polished web and mobile interfaces, I love turning ideas into real-world digital products.
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🔭 Currently building **Full-Stack Web & Mobile Applications**
-* 🌱 Currently learning **TypeScript & Backend Design Patterns**
-* 🤝 Open to collaborating on **Open Source, Startup MVPs & Innovative Projects**
-* 💬 Ask me about **Python, Django, Flutter, Firebase & Project Architecture**
-* ⚡ I enjoy building **mini-projects, experimenting with ideas, and polishing UI/UX**
+- 🔭 Currently building **Full-Stack Web & Mobile Applications**
+- 🌱 Currently learning **TypeScript & Backend Design Patterns**
+- 🤝 Open to collaborating on **Open Source Projects, Startup MVPs & Innovative Ideas**
+- 💬 Ask me about **Python, Django, Flutter, Firebase & Project Architecture**
+- ⚡ I enjoy building **mini-projects, experimenting with ideas, and polishing UI/UX**
 
 ---
 
@@ -37,84 +35,41 @@ Currently, I'm focused on building modern applications using **Django, Flutter, 
 
 ---
 
-# 💻 Tech Stack
-
-### 🚀 Languages
+## 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,dart,js,php,c,cpp,java" />
-</p>
-
-### ⚙️ Frameworks & Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=django,flutter,firebase,html,css" />
-</p>
-
-### 🗄️ Databases & Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,supabase,firebase" />
-</p>
-
-### ☁️ Deployment & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,netlify,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,dart,js,php,c,cpp,java,django,flutter,firebase,html,css,mysql,supabase,git,github,netlify,vercel,vscode" />
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jithin-sunil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithin-sunil&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jithin-sunil&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jithin-sunil&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jithin-sunil&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jithin-sunil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+  <img src="https://streak-stats.demolab.com?user=jithin-sunil&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🚀 What I'm Working With
 
-```text
+
 💻 Web Development     → Django | HTML | CSS | JavaScript
 📱 Mobile Development  → Flutter | Dart
 🔥 Backend & Cloud     → Firebase | Supabase | MySQL
 ⚙️ Programming         → Python | PHP | Java | C | C++
 ☁️ Deployment          → Netlify | Vercel
-```
+💡 Developer Mindset
 
----
+"Build. Break. Learn. Improve. Repeat."
 
-## 💡 Developer Mindset
+I believe great software is not just about writing code — it's about solving problems, creating meaningful experiences, and continuously improving.
 
-> **"Build. Break. Learn. Improve. Repeat."**
-
-I believe great software is not just about writing code—it's about solving problems, creating meaningful experiences, and continuously improving.
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jithin-sunil&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</p>
-
-<p align="center">
-  ⭐️ From <a href="https://github.com/jithin-sunil">Jithin Sunil</a> — Always building something new.
-</p>
+📈 Profile Visitors
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jithin-sunil&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" /> </p>
+<p align="center"> ⭐️ <b>Thanks for visiting my profile!</b><br/><br/> 💻 Always learning. Always building. 🚀 </p> 
